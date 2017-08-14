@@ -1,333 +1,51 @@
 #EXTM3U
-#EXTINF:0,A&E free
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/672.ts
-#EXTINF:0,AnimalPlanet free
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/671.ts
-#EXTINF:0,BBC AMERICA free
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/628.ts
-#EXTINF:0,bet free
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/630.ts
-#EXTINF:0,CartoonNetwork free
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/670.ts
-#EXTINF:0,cbs free
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/669.ts
-#EXTINF:0,cbs news free
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/653.ts
-#EXTINF:0,cnn free
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/668.ts
-#EXTINF:0,ComedyCentral free
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/667.ts
-#EXTINF:0,COOKING CHANNEL free
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/627.ts
-#EXTINF:0,cw free
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/666.ts
-#EXTINF:0,Destination America free
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/621.ts
-#EXTINF:0,Discovery free
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/652.ts
-#EXTINF:0,DiscoveryScience free
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/651.ts
-#EXTINF:0,diy free
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/650.ts
-#EXTINF:0,E! free
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/655.ts
-#EXTINF:0,ESPN2 free
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/616.ts
-#EXTINF:0,FOOD NETWORK free
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/626.ts
-#EXTINF:0,fox free
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/665.ts
-#EXTINF:0,FOXSPORT1 free
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/625.ts
-#EXTINF:0,fx free
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/664.ts
-#EXTINF:0,fxx free
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/635.ts
-#EXTINF:0,fyi free
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/643.ts
-#EXTINF:0,h2 free
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/633.ts
-#EXTINF:0,HBO COMEDY free
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/624.ts
-#EXTINF:0,HBO FAMILY free
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/623.ts
-#EXTINF:0,hbo free
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/634.ts
-#EXTINF:0,HBO SIGNATURE free
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/642.ts
-#EXTINF:0,INVESTIGATION DISCOVERY free
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/641.ts
-#EXTINF:0,life time free
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/663.ts
-#EXTINF:0,lifetime movie network free
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/649.ts
-#EXTINF:0,MLB Live 1 free
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/721.ts
-#EXTINF:0,MLB Live 2 free
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/720.ts
-#EXTINF:0,MLB Network free
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/719.ts
-#EXTINF:0,MSNBC free
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/640.ts
-#EXTINF:0,NBA LEAGUE PASS LIVE 1 HD free
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/718.ts
-#EXTINF:0,NBA LEAGUE PASS LIVE 2 HD free
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/717.ts
-#EXTINF:0,NBA LEAGUE PASS LIVE 3 HD free
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/716.ts
-#EXTINF:0,nba tv free
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/639.ts
-#EXTINF:0,nbc free
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/662.ts
-#EXTINF:0,nfl network free
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/632.ts
-#EXTINF:0,NFLNOW free
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/622.ts
-#EXTINF:0,pbs free
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/660.ts
-#EXTINF:0,showtime free
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/638.ts
-#EXTINF:0,spike free
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/659.ts
-#EXTINF:0,STARZ CINEMA free
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/636.ts
-#EXTINF:0,STARZ EAST free
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/637.ts
-#EXTINF:0,syfy free
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/658.ts
-#EXTINF:0,tbs free
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/657.ts
-#EXTINF:0,tnt free
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/656.ts
-#EXTINF:0,trutv free
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/648.ts
-#EXTINF:0,tv land free
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/654.ts
-#EXTINF:0,UnivisionDeportes free
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/617.ts
-#EXTINF:0,Velocity free
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/646.ts
-#EXTINF:0,wwe free
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/631.ts
-#EXTINF:0,free BNN
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/806.ts
-#EXTINF:0,free CARTOON NETWORK
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/805.ts
-#EXTINF:0,free CBC TORONTO
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/804.ts
-#EXTINF:0,free CHCH
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/803.ts
-#EXTINF:0,free CITY VANCOUVER
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/802.ts
-#EXTINF:0,free COMEDY GOLD
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/801.ts
-#EXTINF:0,free COTTAGE LIFE
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/800.ts
-#EXTINF:0,free CP24
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/799.ts
-#EXTINF:0,free CTV TORONTO
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/798.ts
-#EXTINF:0,free DEJA VIEW
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/797.ts
-#EXTINF:0,free E!
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/796.ts
-#EXTINF:0,free FYI
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/794.ts
-#EXTINF:0,free G4
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/793.ts
-#EXTINF:0,free GLOBAL TV CALGARY
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/792.ts
-#EXTINF:0,free GOLF CHANNEL
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/790.ts
-#EXTINF:0,free GSN
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/789.ts
-#EXTINF:0,MOVIE TIME FREE
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/787.ts
-#EXTINF:0,free MTV CANADA
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/786.ts
-#EXTINF:0,free MUCH MUSIC
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/785.ts
-#EXTINF:0,free NICK
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/783.ts
-#EXTINF:0,free OLN
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/782.ts
-#EXTINF:0,free OWN (OPRAH WINFREY NETWORK)
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/781.ts
-#EXTINF:0,free PEACHTREE TV
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/780.ts
-#EXTINF:0,free SILVER SCREEN CLASSICS
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/779.ts
-#EXTINF:0,free SLICE
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/778.ts
-#EXTINF:0,free SPIKE
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/777.ts
-#EXTINF:0,free SPORTSNET WORLD HD
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/776.ts
-#EXTINF:0,free TELETOON
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/775.ts
-#EXTINF:0,free THE MOVIE NETWORK
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/774.ts
-#EXTINF:0,free TRAVEL CHANNEL
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/773.ts
-#EXTINF:0,free TREE HOUSE
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/772.ts
-#EXTINF:0,free VRAK TV
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/771.ts
-#EXTINF:0,free W NETWORK
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/770.ts
-#EXTINF:0,free WORLD FISHING
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/769.ts
-#EXTINF:0,free YTV
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/768.ts
-#EXTINF:0,TelemundoFREE
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/615.ts
-#EXTINF:0,RT HD
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/822.ts
-#EXTINF:0,TPK MUSIC BRIT HITS
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/849.ts
-#EXTINF:0,TPK MUSIC DANCE EDM
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/848.ts
-#EXTINF:0,TPK MUSIC HIP HOP & R & B
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/847.ts
-#EXTINF:0,TPK MUSIC HIT LIST
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/846.ts
-#EXTINF:0,TPK MUSIC INDIE
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/845.ts
-#EXTINF:0,TPK MUSIC KIDS ONLY
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/844.ts
-#EXTINF:0,TPK MUSIC LATINO POP
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/843.ts
-#EXTINF:0,TPK MUSIC MEXICAAN
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/841.ts
-#EXTINF:0,TPK MUSIC POP & COUNTRY
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/840.ts
-#EXTINF:0,TPK MUSIC POP HITS
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/839.ts
-#EXTINF:0,TPK MUSIC R&B SOUL
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/838.ts
-#EXTINF:0,TPK MUSIC RAP 2K
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/836.ts
-#EXTINF:0,TPK MUSIC RAP
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/837.ts
-#EXTINF:0,TPK MUSIC ROCK
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/835.ts
-#EXTINF:0,TPK MUSIC THROWBACK JAMZ
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/833.ts
-#EXTINF:0,TPK MUSIC TODAYS COUNTRY
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/832.ts
-#EXTINF:0,TPK MUSIC TODDLER TUNES
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/831.ts
-#EXTINF:0,TPK MUSIC MC PLAY
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/842.ts
-#EXTINF:0,TPK MUSIC TEEN BEATS
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/834.ts
-#EXTINF:0,TPK MUSIC Y2K
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/828.ts
-#EXTINF:0,TPK MUSIC ALTERNATIVE
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/826.ts
-#EXTINF:0,TPK MUSIC TROPICALES
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/830.ts
-#EXTINF:0,SyFy Latinoamerica
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/1079.ts
-#EXTINF:0,13 TV LATINO
-http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist_w986866555.m3u8
-#EXTINF:0,360 TV LATINO
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
-#EXTINF:0,7 TV Región de Murcia LATINO
-http://194.14.242.172/80670-live0/murciatv/playlist.m3u8
-#EXTINF:0,8 TV LATINO
-rtmp://178.33.113.212/8TV/8aldia-directe
-#EXTINF:0,A&E Latinoamerica
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/1127.ts
-#EXTINF:0,Agape TV LATINO
-http://agapetv.dominiocreativo.com:1935/8122/8122/playlist.m3u8
-#EXTINF:0,Animal Planet Latinoamerica
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/1126.ts
-#EXTINF:0,Aragon TV LATINO
-http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
-#EXTINF:0,ATB Bolivia LATINO
-http://192.99.38.174:1935/envivo/atb/playlist.m3u8
-#EXTINF:0,AXN Latinoamerica
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/1125.ts
-#EXTINF:0,Azteca 13 LATINO
-http://twistedishere.xyz:2095/live/Service@fix4u.tech/y7A8iV4zi0/1778.ts
-#EXTINF:0,Bolivia al Aire LATINO
-rtmp://stream.shockmedia.com.ar:1935/streamvideo21/streamvideo21
-#EXTINF:0,C5N LATINO
-http://server3.stweb.tv/c5n/ngrp:live_all/playlist.m3u8
-#EXTINF:0,C7 Jalisco LATINO
-http://198.255.112.18:1935/c7cultura/videoc7cultura/chunklist.m3u8
-#EXTINF:0,Capital 21 CDMX LATINO
-http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
-#EXTINF:0,Capital TV LATINO
-http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live.m3u8
-#EXTINF:0,Carolina TV LATINO
-http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
-#EXTINF:0,Cartoon Network Latinoamerica
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/1123.ts
-#EXTINF:0,Castilla la Mancha TV LATINO
-http://live-hls.rtvcm.stream.flumotion.com/rtvcm/hls-multi/main.m3u8
-#EXTINF:0,NatGeo Wild Latinoamerica
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/1094.ts
-#EXTINF:0,Navarra TV LATINO
-rtmp://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478ext
-#EXTINF:0,Niu TV LATINO
-http://cl.origin.grupoz.cl/niu/smil:live.smil/playlist.m3u8
-#EXTINF:0,Ocho TV LATINO
-http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/index_2200_av-p.m3u8
-#EXTINF:0,Pacifico Television Virtual LATINO
-rtmp://cdn1.ujjina.com/iptvpacifico/livepacificotv
-#EXTINF:0,PAT LATINO
-http://192.99.46.56:1935/patbolivia/patlapaz/playlist.m3u8
-#EXTINF:0,Patagonia TV LATINO
-http://69.164.193.177:1935/live/myStream/playlist.m3u8
-#EXTINF:0,PDVSA TV LATINO
-rtmp://controlstreams.com:1935/pdvsatvweb/pdvsatvweb
-#EXTINF:0,Promar TV LATINO
-http://edge.wms28.lorini.net/promar/promar/hasbahca.m3u8
-#EXTINF:0,Proyecto 40 LATINO
-http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/master.m3u8
-#EXTINF:0,QM Noticias LATINO
-http://qmnoticiashls-lh.akamaihd.net/i/qmnoticias_hls@324831/index_1_av-p.m3u8
-#EXTINF:0,]RBC Online LATINO
-rtmp://184.154.28.210:1935/rbc-tv/rbc-tv
-#EXTINF:0,RCG Televisión LATINO
-http://wowzacontrol.com:1935/stream34/stream34/chunklist_w2034234970.m3u8
-#EXTINF:0,Red Advenir LATINO
-rtmp://streamer1.streamhost.org/salive/GMIredadvenirl
-#EXTINF:0,CA – YTV
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/484.ts
-#EXTINF:0,CA – CHCH
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/519.ts
-#EXTINF:0,CA – CITY VANCOUVER
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/518.ts
-#EXTINF:0,CA – COMEDY
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/517.ts
-#EXTINF:0,CA – COTTAGE LIFE
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/516.ts
-#EXTINF:0,CA – CP24
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/515.ts
-#EXTINF:0,CA – CTV TORONTO
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/514.ts
-#EXTINF:0,CA – DEJA VIEW
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/513.ts
-#EXTINF:0,CA – E!
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/512.ts
-#EXTINF:0,CA EVASION
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/511.ts
-#EXTINF:0,CA FYI
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/510.ts
-#EXTINF:0,CA G4
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/509.ts
-#EXTINF:0,CA GLOBAL TV CALGARY
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/508.ts
-#EXTINF:0,CA TRAVEL CHANNEL
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/489.ts
-#EXTINF:0,CA TREE HOUSE
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/488.ts
-#EXTINF:0,CA VRAK TV
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/487.ts
-#EXTINF:0,CA W NETWORK
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/486.ts
-#EXTINF:0,CA WORLD FISHING
-http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/485.ts
+#EXTINF:-1,Latino | Fox Movies HD.
+https://freedom.dreamsmx.com/freedom/foxmoviesizi/playlist.m3u8
+#EXTINF:-1,Latino | Discovery Kids
+https://freedom.dreamsmx.com/freedom/lmb/playlist.m3u8
+#EXTINF:-1,Bet Safe Star Sixes
+https://freedom.dreamsmx.com/freedom/MLB/playlist.m3u8
+#EXTINF:-1,UFC Fight Pass
+https://freedom.dreamsmx.com/freedom/mlb6/playlist.m3u8
+#EXTINF:-1,HBO
+https://freedom.dreamsmx.com/freedom/mlbusa/playlist.m3u8
+#EXTINF:-1,Hbo Plus-
+https://freedom.dreamsmx.com/freedom/hboplusdc/playlist.m3u8
+#EXTINF:-1,HBO Family.
+https://freedom.dreamsmx.com/freedom/hbopluswestizi/playlist.m3u8
+#EXTINF:-1,HBO Signature
+https://freedom.dreamsmx.com/freedom/hbosignature/playlist.m3u8
+#EXTINF:-1,Discovery Home & Health
+https://freedom.dreamsmx.com/freedom/formula1/playlist.m3u8
+#EXTINF:-1,Discovery Home & Health
+https://freedom.dreamsmx.com/freedom/formula1/playlist.m3u8
+#EXTINF:-1,Fox Comedy HD.
+https://freedom.dreamsmx.com/freedom/foxcomedy/playlist.m3u8
+#EXTINF:-1,Fox Family EN
+https://freedom.dreamsmx.com/freedom/foxfamili/playlist.m3u8
+#EXTINF:-1,HBO
+https://freedom.dreamsmx.com/freedom/mlbusa/playlist.m3u8
+#EXTINF:-1,Hbo Plus-
+https://freedom.dreamsmx.com/freedom/hboplusdc/playlist.m3u8
+#EXTINF:-1,HBO Family.
+https://freedom.dreamsmx.com/freedom/hbopluswestizi/playlist.m3u8
+#EXTINF:-1,HBO Signature
+https://freedom.dreamsmx.com/freedom/hbosignature/playlist.m3u8
+#EXTINF:-1,Liga de Ascenso Mx TVC HD
+https://freedom.dreamsmx.com/freedom/nick2/playlist.m3u8
+#EXTINF:-1,Max UP-
+https://freedom.dreamsmx.com/freedom/feriastaurinas/playlist.m3u8
+#EXTINF:-1,A&E
+https://freedom.dreamsmx.com/freedom/eventos4/playlist.m3u8
+#EXTINF:-1,ESPN +
+https://freedom.dreamsmx.com/freedom/espn+/playlist.m3u8
+#EXTINF:-1,Fox Action HD.
+https://freedom.dreamsmx.com/freedom/foxfamili/playlist.m3u8
+#EXTINF:-1,CentroAmerica:AZ HONDURAS
+http://aztecalive-lh.akamaihd.net:80/i/0dcqjxkgx_1@502208/index_1_av-p.m3u8
+#EXTINF:-1,CentroAmerica:TV CENTRO Honduras
+http://tvchonduras-lh.akamaihd.net:80/i/ch_1@325635/master.m3u8
+#EXTINF:-1,CentroAmerica:AZ HONDURAS
+http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/index_1_av-p.m3u8
+#EXTINF:-1,CentroAmerica:TV CENTRO Honduras
+http://tvchonduras-lh.akamaihd.net/i/ch_1@325635/master.m3u8
